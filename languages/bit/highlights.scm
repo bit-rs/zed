@@ -3,6 +3,7 @@
   "let" "fn" "type" "return" "if" "else"
   "for" "while" "in" "break" "continue"
   "use" "as" "raise" "bail"
+  "satl" "with" "send" "to" "launch" "recv"
 ] @keyword
 
 ; Null
