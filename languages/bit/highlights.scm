@@ -21,6 +21,10 @@
 (line_comment) @comment
 (block_comment) @comment
 
+; Satellites
+(satellite_declaration name: (identifier) @function)
+(launch_expression satellite: (identifier) @function.call)
+
 ; Functions
 (function_declaration name: (identifier) @function)
 (call_expression function: (identifier) @function.call)
