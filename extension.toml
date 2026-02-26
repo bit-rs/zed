@@ -7,4 +7,4 @@ schema_version = 1
 
 [grammars.bit]
 repository = "https://github.com/bit-rs/tree-sitter"
-rev = "3fb2564f6487bd78395f6c1e2a3d71cfe01266ba"
+rev = "78b9e5a6b96210aedbdea14eae2cd10955787192"
