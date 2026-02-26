@@ -1,0 +1,10 @@
+id = "bit-lang"
+name = "Bit"
+version = "0.1.0"
+description = "Bit programming language support"
+authors = ["vyacheslavhere"]
+schema_version = 1
+
+[grammars.bit]
+repository = "https://github.com/bit-rs/tree-sitter"
+rev = "81fdbdabe60a6b46950ee66dabb3f5973c242479"

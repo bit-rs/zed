@@ -1,0 +1,5 @@
+name = "Bit"
+grammar = "bit"
+path_suffixes = ["bit"]
+line_comments = ["# "]
+tab_size = 2
